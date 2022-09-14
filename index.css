@@ -1,0 +1,16 @@
+#brushes {
+    max-width: 300px;
+    max-height: 550px;
+    width: 100%;
+    height: 100%;
+    float: left;
+    top: 0;
+    left: 0;
+}
+#defaultCanvas0 {
+    float: left;
+    top: 0;
+    width: 350px !important;
+    height: 350px !important;
+
+}
